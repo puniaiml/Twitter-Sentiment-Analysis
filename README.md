@@ -94,10 +94,23 @@ The system leverages **transformer-based contextual embeddings** along with sequ
 
 ## 📱 Application Preview
 
+### 🏠 Dashboard & Model Overview
 <p align="center">
-  <img src="assets/1.png" width="300"/>
-  <img src="assets/2.png" width="300"/>
-  <img src="assets/3.png" width="300"/>
+  <img src="assets/1.png" width="800"/>
+</p>
+
+---
+
+### ✍️ Tweet Input & Analysis
+<p align="center">
+  <img src="assets/2.png" width="800"/>
+</p>
+
+---
+
+### 📊 Prediction Result & Confidence Scores
+<p align="center">
+  <img src="assets/3.png" width="800"/>
 </p>
 
 ---
