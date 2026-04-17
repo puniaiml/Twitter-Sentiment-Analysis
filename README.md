@@ -3,8 +3,7 @@
 A deep learning web app that classifies tweets into 4 sentiment categories using a **BERT + BiLSTM** architecture, achieving **~90% accuracy** on 74,681 training tweets.
 
 ## 🚀 Live Demo
-[Click here to try the app](#) <!-- replace with your Streamlit Cloud URL after deploying -->
-
+[[Click here to try the app](https://twitter-sentiment-analysis-vvwqu3ohssprazxy7nf7q6.streamlit.app/)]
 ## 🏗️ Model Architecture
 | Layer | Details |
 |---|---|
