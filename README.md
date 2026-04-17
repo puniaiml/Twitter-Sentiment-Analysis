@@ -95,9 +95,9 @@ The system leverages **transformer-based contextual embeddings** along with sequ
 ## 📱 Application Preview
 
 <p align="center">
-  <img src="assets/app_home.png" width="300"/>
-  <img src="assets/input_analysis.png" width="300"/>
-  <img src="assets/result_output.png" width="300"/>
+  <img src="assets/1.png" width="300"/>
+  <img src="assets/2.png" width="300"/>
+  <img src="assets/3.png" width="300"/>
 </p>
 
 ---
