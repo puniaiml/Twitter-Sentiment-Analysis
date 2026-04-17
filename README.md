@@ -60,5 +60,3 @@ streamlit run app.py
 ```
 
 4. Click **🚀 Load / Reload Model** in the sidebar — the model will be downloaded automatically from HuggingFace on first run.
-
-## 📂 Project Structure
